@@ -2,7 +2,7 @@
     "palette": "yellow",
     "header": {
         "title": "Homestead Hacker",
-        "logo_img": "images/TwitchBannerInLineCntr (1920x480).png",
+        "logo_img": "images/hh-logo.png",
         "logo_img_alt": "Fjord Logo",
         "background_img": "images/header-bg.jpg",
         "has_nav": true,
